@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "convoreview@convoreview.com": {
+      "updates": [
+        {
+          "version": "0.0.4",
+          "update_link": "https://github.com/alexlopespereira/convoreview/raw/main/src/deploy/v0.0.1/convoreview-0.0.1-fx.xpi"
+        }
+      ]
+    }
+  }
+}
