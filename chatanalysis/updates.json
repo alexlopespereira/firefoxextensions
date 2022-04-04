@@ -4,7 +4,7 @@
       "updates": [
         {
           "version": "0.0.4",
-          "update_link": "https://github.com/alexlopespereira/convoreview/raw/main/src/deploy/v0.0.1/convoreview-0.0.1-fx.xpi"
+          "update_link": "https://github.com/alexlopespereira/firefoxextension/raw/main/chatanalysis/chat_analysis-0.0.4-fx.xpi"
         }
       ]
     }
