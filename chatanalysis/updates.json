@@ -17,6 +17,10 @@
         {
           "version": "0.0.9",
           "update_link": "https://github.com/alexlopespereira/firefoxextensions/raw/main/chatanalysis/chat_analysis-0.0.7-fx.xpi"
+        },
+        {
+          "version": "0.1.0",
+          "update_link": "https://github.com/alexlopespereira/firefoxextensions/raw/main/chatanalysis/chat_analysis-0.0.7-fx.xpi"
         }
       ]
     }
